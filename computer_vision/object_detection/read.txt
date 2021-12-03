@@ -1,0 +1,1 @@
+Object Detection implemented and resources(& concepts) i learned.
